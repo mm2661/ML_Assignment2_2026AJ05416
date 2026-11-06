@@ -16,7 +16,7 @@ Build and compare five supervised classification algorithms to predict whether a
 The included `test_data.csv` contains the held-out test observations and their ground-truth target. The Streamlit app evaluates uploaded test data with the saved models and does not retrain them.
 
 ## c. GitHub Repository Link
-**[](https://github.com/mm2661/ML_Assignment2_2026AJ05416)**
+**[(https://github.com/mm2661/ML_Assignment2_2026AJ05416)]**
 
 ## d. Models used and evaluation metrics
 
